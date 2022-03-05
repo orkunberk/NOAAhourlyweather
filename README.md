@@ -4,4 +4,4 @@ Scraping the [National Oceanic and Atmospheric Administration]('https://www.ncei
 
 # NOAA Saatlik Hava Durumu Verisi
 
-[Ulusal Okyanus ve Atmosfer Dairesi]('https://www.ncei.noaa.gov/data/global-hourly/access/)'nın yayınladığı geçmiş döneme ait saatlik hava durumu verisini Türkiye lokasyonları için toplu olarak indirme kodu.
+[Ulusal Okyanus ve Atmosfer Dairesi]('https://www.ncei.noaa.gov/data/global-hourly/access/)'nın yayınladığı geçmiş döneme ait saatlik hava durumu verisini deki tüm lokasyonlar için toplu olarak indirme python kodu.

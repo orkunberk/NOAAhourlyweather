@@ -1,0 +1,171 @@
+﻿USAF-WBAN_ID,STATION NAME                   
+17020099999,BARTIN                         
+17022099999,ZONGULDAK                      
+17022299999,KASTAMONU                      
+17022399999,SAMANDIRA                      
+17024099999,INEBOLU                        
+17026099999,SINOP                          
+17029099999,SAMSUN\MEYDAN                  
+17030099999,SAMSUN                         
+17031099999,CARSAMBA                       
+17033099999,ORDU                           
+17034099999,GIRESUN                        
+17038099999,TRABZON                        
+17040099999,RIZE                           
+17042099999,HOPA                           
+17045099999,ARTVIN                         
+17046099999,ARDAHAN                        
+17050099999,EDIRNE                         
+17052099999,KIRKLARELI                     
+17054099999,CORLU                          
+17056099999,TEKIRDAG                       
+17057599999,CORLU                          
+17059099999,KUMKOY                         
+17060099999,ATATURK                        
+17061099999,SARIYER                        
+17062099999,ISTANBUL/GOZTEPE               
+17063099999,SABIHA GOKCEN                  
+17064099999,ISTANBUL BOLGE (KARTAL)        
+17066199999,IZMIT                          
+17067099999,GOLCUK/DUMLUPINAR              
+17067199999,KAPADOKYA                      
+17067299999,YENISEHIR                      
+17067399999,CARSAMBA                       
+17067499999,ANTALYA/GAZIPASA               
+17067599999,EDREMIT KORFEZ                 
+17068099999,CENGIZTOPEL                    
+17069099999,ADAPAZARI                      
+17070099999,BOLU                           
+17072099999,DUZCE                          
+17074099999,KASTAMONU                      
+17078099999,KARABUK                        
+17080099999,CANKIRI                        
+17082099999,MERZIFON                       
+17084099999,CORUM                          
+17085099999,AMASYA                         
+17086099999,TOKAT                          
+17088099999,GUMUSHANE                      
+17089099999,BAYBURT                        
+17090099999,SIVAS                          
+17090599999,SIVAS (CIV/MIL)                
+17092099999,ERZINCAN                       
+17095099999,ERZURUM BOLGE                  
+17096099999,ERZURUM                        
+17096599999,ERZURUM (CIV/MIL)              
+17098099999,KARS                           
+17098199999,SIIRT                          
+17099099999,AGRI                           
+17100099999,IGDIR                          
+17100199999,IGDIR AIRPORT                  
+17110099999,GOKCEADA                       
+17111099999,BOZCAADA                       
+17112099999,CANAKKALE                      
+17115099999,BANDIRMA                       
+17116099999,BURSA                          
+17117099999,KUTAHYA(TAFB)                  
+17118099999,YENISEHIR                      
+17118599999,SIVRIHISAR                     
+17119099999,YALOVA                         
+17120099999,BILECIK                        
+17124099999,ESKISEHIR                      
+17127099999,AKINCI                         
+17127399999,MURTED (TUR-AFB)               
+17128099999,ESENBOGA                       
+17129099999,ETIMESGUT                      
+17129599999,GUVERCINLIK                    
+17130099999,ANKARA/CENTRAL                 
+17131099999,GUVERCINLIK                    
+17135099999,KIRIKKALE                      
+17140099999,YOZGAT                         
+17145099999,EDREMIT KORFEZ                 
+17150099999,BALIKESIR                      
+17155099999,KUTAHYA                        
+17160099999,KIRSEHIR                       
+17162099999,GEMEREK                        
+17165099999,TUNCELI                        
+17170099999,VAN                            
+17175099999,AYVALIK                        
+17177099999,BOGUS TURKISH                  
+17180099999,DIKILI                         
+17184099999,AKHISAR                        
+17186099999,MANISA                         
+17186599999,MANISA / SANAYI AIRPORT        
+17188099999,USAK                           
+17189099999,AFYONKARAHISAR                 
+17190099999,AFYON                          
+17190599999,AFYON (MIL)                    
+17191099999,CIHANBEYLI                     
+17192099999,AKSARAY                        
+17193099999,NEVSEHIR                       
+17194099999,KAPADOKYA                      
+17195099999,ERKILET                        
+17196099999,KAYSERI BOLGE                  
+17197099999,TULGA                          
+17198399999,AKHISAR (TUR-AFB)              
+17199099999,MALATYA/BOLGE                  
+17200099999,ERHAC                          
+17200599999,TOPEL                          
+17200699999,ANADOLU                        
+17202099999,ELAZIG                         
+17203099999,BINGOL                         
+17204099999,MUS                            
+17204399999,MUS                            
+17205099999,TATVAN                         
+17210099999,SIIRT                          
+17218099999,CIGLI                          
+17218999999,KAKLIC                         
+17219099999,ADNAN MENDERES                 
+17219199999,GAZIEMIR                       
+17220099999,IZMIR/GUZELYALI                
+17221099999,CESME                          
+17232099999,KUSADASI                       
+17234099999,AYDIN                          
+17234599999,DALAMAN/MUGLA                  
+17237099999,DENIZLI                        
+17237599999,CARDAK                         
+17238099999,BURDUR                         
+17239099999,AKSEHIR                        
+17240099999,ISPARTA                        
+17241099999,SULEYMAN DEMIREL               
+17244099999,KONYA                          
+17246099999,KARAMAN                        
+17248099999,EREGLI/KONYA                   
+17250099999,NIGDE                          
+17255099999,KAHRAMANMARAS                  
+17260099999,OGUZELI                        
+17262099999,KILIS                          
+17265099999,ADIYAMAN                       
+17270099999,SANLIURFA                      
+17271099999,GAP/SANLIURFA                  
+17273499999,MILAS BODRUM                   
+17275099999,MARDIN                         
+17280099999,DIYARBAKIR                     
+17280599999,BATMAN (TUR-AFB)               
+17282099999,BATMAN                         
+17282199999,SIRNAK                         
+17285099999,HAKKARI                        
+17290099999,IMSIK                          
+17291099999,MILAS BODRUM                   
+17292099999,MUGLA                          
+17295099999,DALAMAN                        
+17295399999,DALAMAN/MUGLA                  
+17296099999,FETHIYE                        
+17297099999,DATCA                          
+17298099999,MARMARIS                       
+17300099999,ANTALYA                        
+17302099999,ANTALYA-BOLGE                  
+17310099999,ALANYA                         
+17320099999,ANAMUR                         
+17330099999,SILIFKE                        
+17340099999,MERSIN                         
+17350033308,ADANA/INCIRLIK                 
+17350099999,INCIRLIK AB                    
+17350599999,ADANA CIVIL                    
+17351099999,ADANA/BOLGE                    
+17352099999,ADANA                          
+17355099999,OSMANIYE                       
+17370099999,ISKENDERUN                     
+17372099999,HATAY-ANTAKYA                  
+17372599999,HATAY                          
+17375099999,FINIKE                         
+17380099999,KAS                            
